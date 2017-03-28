@@ -1,0 +1,24 @@
+{
+  "name": "granattest",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "privetkometa <privetkometa@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "build/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.less": "^1.0.0",
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
+  }
+}
